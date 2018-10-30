@@ -1,6 +1,6 @@
-# ember-xs-changes
+# DEPRECATED ember-xs-changes
 
-This README outlines the details of collaborating on this Ember addon.
+This was a temporary, experimental repository which is now obsolete.
 
 ## Installation
 
